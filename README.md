@@ -2,7 +2,7 @@
 
 Bem-vindo ao projeto **QRCode Generator**!
 
-Este repositório contém um código simples para gerar um PDF com um QR Code a partir de um texto fornecido. Para começar, siga as instruções abaixo:
+Este repositório contém um código simples para gerar um PDF com um QR Code. Para começar, siga as instruções abaixo:
 
 ## Pré-requisitos
 
@@ -14,13 +14,13 @@ Este repositório contém um código simples para gerar um PDF com um QR Code a 
 1. Clone este repositório em seu ambiente local:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/PauloRWM/Exemplificando-uso-do-DOMPDF.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd nome-do-repositorio
+    cd Exemplificando-uso-do-DOMPDF
     ```
 
 3. Instale as dependências do Composer:
@@ -39,16 +39,14 @@ Este repositório contém um código simples para gerar um PDF com um QR Code a 
 
 ## Como Usar
 
-Após iniciar o servidor, abra seu navegador e vá para `http://localhost`. Você será redirecionado para uma página onde poderá inserir o texto que deseja codificar em um QR Code. Depois de inserir o texto, clique no botão "Gerar QR Code". Um arquivo PDF contendo o QR Code correspondente ao texto será gerado e baixado automaticamente.
+Após iniciar o servidor, abra seu navegador e vá para `http://localhost`.Ao acessar o você visualizará o pdf no seu navegador, voce pode alterar o conteudo do pdf gerado diretamente no arquivo -> modelo.html.
 
 Divirta-se codificando seus próprios QR Codes! Se tiver alguma dúvida ou encontrar problemas, não hesite em abrir uma issue neste repositório.
 
 --- 
 
-Você também pode acessar diretamente o QR Code pelo link: [http://localhost/qrcode](http://localhost/qrcode)
 
-![QR Code](qrcode.png)
 
 --- 
 
-Este projeto é mantido por [Seu Nome](https://github.com/seu-usuario).
+Este projeto é mantido por [Paulo Ricardo]([https://github.com/seu-usuario](https://github.com/PauloRWM/)).
